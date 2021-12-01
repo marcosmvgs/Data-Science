@@ -17,5 +17,4 @@ Olá, meu nome é Marcos, sou Piloto da Força Aérea Brasileira e iniciante na 
 1. Graduação em Ciências Aeronáuticas pela Academia da Força Aérea
 2. Pós Graduação em Finanças, Investimentos e Banking pela PUC-RS
 3. Pós Graduação em  em Análise de Ambiente Eletromagnético pelo Instituto Tecnlógico da Aeronáutica (ITA)
-4.  
-
+4. 
