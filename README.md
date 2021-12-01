@@ -4,11 +4,14 @@
 
 Neste repositório você encontrará os meus principais projetos de *Data Science* e se quiser conhecer um pouco mais acesso meu Blog (www.producaopython.com/home)
 
+---
 
 **Principais Projetos de *Data Science***
 1. Análise de dados de Grupo de Whatsapp
 2. Análise de dados de imóveis locados pelo AIRBNB em Berlim Alemanha
 3. Detecção de Fraude em Cartões de Crédito
+
+---
 
 **Sobre mim**
 
