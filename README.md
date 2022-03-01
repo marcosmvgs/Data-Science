@@ -8,7 +8,7 @@ Neste repositório você encontrará os meus principais projetos de *Data Scienc
 
 **Principais Projetos de *Data Science***
 1. Análise de dados de Grupo de Whatsapp: https://www.producaopython.com/analise-de-dados-de-whatsapp/
-2. Análise de dados de imóveis locados pelo AIRBNB em Berlim Alemanha
+2. Análise de dados de imóveis locados pelo AIRBNB em Hong Kong https://github.com/marcosmvgs/Airbnb-em-Hong-Kong
 3. Detecção de Fraude em Cartões de Crédito
 
 ---
