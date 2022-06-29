@@ -2,7 +2,7 @@
 
 **Inicie por aqui**
 
-Neste repositório você encontrará os meus principais projetos de *Data Science* e se quiser conhecer um pouco mais acesso meu Blog (www.producaopython.com/home)
+Neste repositório você encontrará os meus principais projetos de *Data Science* e se quiser conhecer um pouco mais, não só de *Data Science*, mas de tudo que compartilho , acesse meu Blog (www.producaopython.com)
 
 ---
 
